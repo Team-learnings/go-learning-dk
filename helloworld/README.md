@@ -11,4 +11,3 @@ it once and save the compi led result for later use. That is don e with go build
 
 This creates a binary file and can be run anytime with - 
 > ./helloworld
-
